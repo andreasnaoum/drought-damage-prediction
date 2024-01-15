@@ -1,6 +1,6 @@
 # Deep Learning for Drought Damage Prediction Using Smartphone Images of Crops
 
-This project developed an ML model for participating in the challenge "Eyes on the Ground":
+This project developed an ML model for participating in the Zindi platform's challenge "Eyes on the Ground":
 https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge
 
 ## CNN Model Results
