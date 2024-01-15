@@ -1,13 +1,15 @@
 # Deep Learning for Drought Damage Prediction Using Smartphone Images of Crops
 
+This project developed an ML model for participating in the challenge "Eyes on the Ground":
+https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge
+
 ## CNN Model Results
 | Model              | RMSE         |
 | ------------------ | ------------ |
 | CNN                | 16.44817351  |
 | CNN with Heuristic | 15.69013985  |
 
-The results were measured in the Zindi Platform, and the competition can be found here: 
-https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge
+The results were measured in the Zindi Platform.
 
 ## Data Sources 
 The project exclusively uses data from the "Eyes on the Ground" Challenge, consisting of 26,068 labeled training images and 8,663 testing images. The dataset was contributed by smallholder farmers making insurance claims.
