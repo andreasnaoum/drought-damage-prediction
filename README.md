@@ -11,3 +11,9 @@ A CNN architecture, inspired by successful image processing tasks, was implement
 
 ## Heuristic 
 In this project, a CNN is combined with a heuristic to enhance model predictions. The heuristic chosen for this study combines the two most prominent choices in the survey results, namely yellow and brown leaves. In order to detect these leaves in the dataset's images, it opted to utilize a colour mask which filters pixel colours in a range between two RGB values chosen to approximate the colours of yellow and brown leaves. This colour transformation was performed during the pre-processing stage of the training, after the resizing and padding of the images.
+
+## Results
+| Model              | RMSE         |
+| ------------------ | ------------ |
+| CNN                | 16.44817351  |
+| CNN with Heuristic | 15.69013985  |
